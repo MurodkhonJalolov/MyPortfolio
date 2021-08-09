@@ -3,11 +3,6 @@ import { Container} from 'react-bootstrap';
 import './navbar.css';
 
 function Navbar() {
-    // componentDidMount(){      
-    //     window.onscroll =()=>{
-    //      this.setState({currentScrollHeight: window.scrollY})
-    //     }
-    // }  
     
   return (
     <div className="navbar">
