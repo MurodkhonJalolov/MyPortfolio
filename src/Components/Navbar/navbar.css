@@ -28,6 +28,9 @@
     line-height: 21px;
     color: #ffffff;
 }
+.navbar .menu li a:hover{
+    color: #dc143c;
+}
 .navbar .contact-btn{
     width: 120px;
     height: 36px;
