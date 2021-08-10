@@ -1,8 +1,8 @@
 import React from 'react';
 import { Container } from 'react-bootstrap'
-import './about.css';
+import './footer.css';
 
-function Aboutme() {
+function Footer() {
   return (
     <Container className="aboutme">
         <div className="aboutme_top">
@@ -16,5 +16,4 @@ function Aboutme() {
   );
 }
 
-export default Aboutme;
- 
+export default Footer;
